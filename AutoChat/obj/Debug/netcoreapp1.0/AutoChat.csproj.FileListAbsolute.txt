@@ -1,0 +1,9 @@
+C:\Users\ing\Desktop\AutoChat\AutoChat\bin\Debug\netcoreapp1.0\AutoChat.deps.json
+C:\Users\ing\Desktop\AutoChat\AutoChat\bin\Debug\netcoreapp1.0\AutoChat.runtimeconfig.json
+C:\Users\ing\Desktop\AutoChat\AutoChat\bin\Debug\netcoreapp1.0\AutoChat.runtimeconfig.dev.json
+C:\Users\ing\Desktop\AutoChat\AutoChat\bin\Debug\netcoreapp1.0\AutoChat.dll
+C:\Users\ing\Desktop\AutoChat\AutoChat\bin\Debug\netcoreapp1.0\AutoChat.pdb
+C:\Users\ing\Desktop\AutoChat\AutoChat\obj\Debug\netcoreapp1.0\AutoChat.csprojResolveAssemblyReference.cache
+C:\Users\ing\Desktop\AutoChat\AutoChat\obj\Debug\netcoreapp1.0\AutoChat.AssemblyInfo.cs
+C:\Users\ing\Desktop\AutoChat\AutoChat\obj\Debug\netcoreapp1.0\AutoChat.dll
+C:\Users\ing\Desktop\AutoChat\AutoChat\obj\Debug\netcoreapp1.0\AutoChat.pdb
