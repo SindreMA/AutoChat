@@ -37,12 +37,21 @@ As a administrator you might wana put mute on the v Channels
 Here are the commands:
 
   .count (Returns the amount of people in your voice channel)
+  
   .moveallto [X]  (Moves all people from your voice channel to channel [X] NB! type channel with no spaces [MODS])
+  
   .voicemsg [on/off] (Turns off or on the join message[MODS])
+  
   .CreateV (Creates all the a 'v ' text channel per voice channel[ADMINISTRATOR])
+  
   .DeleteV (Deletes all the text channels that start with 'v ' [ADMINISTRATOR])
+  
   .VRefresh (Refreshes all the user permission [Usefull if someone joins when the bot is offline][ADMINISTRATOR])
+  
   .ShowConfig (Shows you the current config for the v channels [if you have a config][ADMINISTRATOR])
+  
   .ChangeConfig [Permission] [True/False] (Lets you change/create a config for the v channels [ADMINISTRATOR])
+  
   .RemoveConfig (Removes your config and goes back to default)
+  
   .help (shows this message)
