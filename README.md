@@ -1,5 +1,5 @@
-# Discord.Net Utility Bot
-A utility bot for Discord.Net's support channels.
+# Autochat
+A simple bot fot having voice textchannels
 
 ### Compiling
 This bot requires:
@@ -9,3 +9,24 @@ This bot requires:
 ### Contributing
 To develop, you need:
 - Visual Studio 2017
+----------------------------------------------------------------------------------------------------
+To setup the bot you must have atleast the "Manage Server" permission on the server.
+
+The first thing you need to do is to add the bot by going on this link:
+https://discordapp.com/oauth2/authorize?&client_id=319475718431965184&scope=bot+&permissions=8
+
+On the website you need to select the server you want the bot to join and click "Authorize".
+
+You should now see that the bot have joined your server!
+To get the v_ channels in you need to use the command .CreateV
+
+You should now see as an administrator all the channels showing up on your right.
+That should be all needed to do.
+
+I do recommend checking with a none administrator user so you can see how its looking for the enduser.
+
+You can do .help if you want to see all the commands for the bot.
+
+(PS! If you just want one text channel for all voice channels, then just create a text channel named "voiceonly" and deny every read permission)
+
+As a administrator you might wana put mute on the v Channels
