@@ -55,3 +55,7 @@ Here are the commands:
   .RemoveConfig (Removes your config and goes back to default)
   
   .help (shows this message)
+
+
+
+##If you need help with the bot, feel free to contact me on discord https://discord.gg/2WFdNyq
