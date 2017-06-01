@@ -31,8 +31,11 @@ You can do .help if you want to see all the commands for the bot.
 (PS! If you just want one text channel for all voice channels, then just create a text channel named "voiceonly" and deny every read permission)
 
 As a administrator you might wana put mute on the v Channels
+
 ----------------------------------------------------------------------------------------------------
+
 Here are the commands:
+
   .count (Returns the amount of people in your voice channel)
   .moveallto [X]  (Moves all people from your voice channel to channel [X] NB! type channel with no spaces [MODS])
   .voicemsg [on/off] (Turns off or on the join message[MODS])
